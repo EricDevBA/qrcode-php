@@ -1,5 +1,8 @@
 {
-    "require": {
-        "chillerlan/php-qrcode": "^3.0"
+    "require-dev": {
+        "chillerlan/php-qrcode": "^3.0",
+        "phpdocumentor/phpdocumentor": "2.*"
+
+
     }
 }
